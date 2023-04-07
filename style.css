@@ -4,16 +4,15 @@
 	box-sizing: border-box;
 }
 body {
-	margin: 0;
-	padding: 0;
 	font-family: sans-serif;
+	background-color: rgb(14, 14, 32);
 }
 
 nav {
-	background-color: #333;
+	background-color: #08182c;
 	color: #fff;
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 	padding: 20px;
 }
@@ -36,5 +35,13 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #555;
+	background-color: #2b2929;
+}
+main {
+	display: flex;
+	padding: 50px;
+	justify-content: center;
+}
+.content {
+	color: white;
 }
