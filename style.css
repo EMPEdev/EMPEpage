@@ -44,13 +44,13 @@ nav a:hover {
 	color: white;
 }
 
-.overlay-inner{
+.overlay-inner	{
 	font-weight: lighter;
 	position: relative;
 	top: 20px;
 	left: 10px;
 	color: #fff;
-	display: ;
+	display: flex;
 	justify-content: left;
 }
 .section-about {
