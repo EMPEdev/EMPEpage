@@ -60,12 +60,12 @@ nav a:hover {
 }
 
 .section-about {
+	box-shadow: 6px 6px 25px 6px #1f3036;
 	margin: 20px;
 	width: 450px;
 	height: 410px;
 	text-align: left;
 	overflow: hidden;
-	border-style: solid;
 	border-radius: 1cm;
 }
 .overlay-about {
